@@ -1,6 +1,4 @@
-# Friday Night Funkin' - Psych Engine v0.7.3 Template
-
-This Template for Making any Mods and Engines you want, with Mobile Support.
+# Friday Night Funkin' - Friends Engine
 
 ![special](docs/img/special.png)
 
